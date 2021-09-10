@@ -1,7 +1,7 @@
-> Cats 🐈
+- Cats 🐈
 > 
-> Sleeping 💤
+- Sleeping 💤
 > 
-> Fall 🍁
+- Fall 🍁
 > 
-> Games 🎮 
+- Games 🎮 
